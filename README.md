@@ -1,2 +1,1 @@
-# features-upvote
-Feature up vote
+Feature upvote
